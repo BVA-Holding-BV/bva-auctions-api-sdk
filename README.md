@@ -1,4 +1,4 @@
-#BVA-Auctions SDK
+# BVA-Auctions SDK
 
 This repository provides sample code to show how to use the BVA-Auctions API.
 
